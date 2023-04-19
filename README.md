@@ -10,10 +10,21 @@
 <body>
     <div id="main">
         <h1>Онлайн уй бозор</h1>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap');
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            body {
+                font-family
+        </style>
         <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png">
         <p> Teskt</p>
         <button id="buy">Купить</button>
     </div>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
 
 </body>
 </html>
