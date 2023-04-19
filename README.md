@@ -59,13 +59,23 @@
 
             button:hover {
                background: var(--tg-theme-secondary-bg-color);
+               input:focus{
+                    border-color: #bd5d5d:
+                    }
             }
         </style>
         <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png">
-        <p> Teskt</p>
+        <p>Teskt</p>
         <button id="buy">Купить</button>
     </div>
+    <form id="form">
+        <input type="text" placeholder="Имя" id=user_name">
+        <input type="text" placeholder="Email" id=user_email">
+        <input type="text" placeholder="Телефон" id=user_phone">
+        <button id="order"> Оформить</button>
+    </form>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
-
+    <script>
+    
 </body>
 </html>
