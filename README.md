@@ -85,7 +85,7 @@
     <div id="main">
         <h1>Онлайн магазин</h1>
         <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png">
-        <p>Tesktsadsdajkhdjahjkd sjkdasjhdkjsahdkjsahd kjsdkjahdkjhasdkjhaskjhd</p>
+        <p>Мексиканская, Томатный соус, цыплёнок, свежие шампиньоны, свежий болгарский перец, маринованный  красный лук, свежие томаты, жгучие мексиканские перчики Халапеньо, сыр Моцарелла.</p>
         <button id="buy">Купить</button>
     </div>
     <form id="form">
