@@ -77,7 +77,7 @@
         }
 
         input:focus {
-            border-color: #bd5d5d;
+            border-color: #3c4eff;
         }
     </style>
 </head>
